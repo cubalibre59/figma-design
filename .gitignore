@@ -1,0 +1,8 @@
+*.fig
+*.png
+*.jpg
+*.psd
+*.ai
+*.zip
+node_modules/
+dist/
